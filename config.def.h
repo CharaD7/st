@@ -8,7 +8,7 @@
 static char *font = "Fira Code iScript:style:medium Font:size=13:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-	"Apple Color Emoji:size=13:antialias=true:autohint=true"
+	"Material Design Icons Desktop:size=13:antialias=true:autohint=true"
 };
 
 static int borderpx = 2;
