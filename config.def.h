@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetBrains Mono Nerd Font:size=13:antialias=true:autohint=true";
+static char *font = "Fira Code iScript:style:medium Font:size=13:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
 	"Apple Color Emoji:size=13:antialias=true:autohint=true"
