@@ -5,11 +5,12 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetBrainsMono Nerd Font:style:medium Font:size=9:antialias=true:autohint=true";
+static char *font = "JetBrainsMono Nerd Font:size=11:antialias=true:autohint=true";
 // static char *font = "Fira Code iScript:style:medium Font:size=11:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-	"Material Design Icons Desktop:size=11:antialias=true:autohint=true"
+	// "Material Design Icons Desktop:size=11:antialias=true:autohint=true"
+  "JetBrainsMono Nerd Font:size=11:antialias=true:autohint=true"
 };
 
 static int borderpx = 2;
